@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello i'm Patrick Bomm
 
-<!--
-**PatrickBomm/PatrickBomm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<a href="https://github.com/PatrickBomm">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickBomm&show_icons=true&theme=radical"/>
+<img height="180ec" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickBomm&layout=compact"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://discord.com/channels/Patrick Santos#6151" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/patrick_bomm/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/patrick-dos-santos-443601204/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
