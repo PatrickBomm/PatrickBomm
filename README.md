@@ -1,9 +1,10 @@
-###"name": "Patrick Bomm dos Santos",
+```json
+"name": "Patrick Bomm dos Santos",
 "age": "20",
 "living in": "Porto Alegre, Brazil",
 "studying": "Software Engineering at pucrs",
 "interests": "backend, music, soccer and gym"
-
+```
 <div>
 <a href="https://github.com/PatrickBomm">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickBomm&show_icons=true&theme=dark"/>
