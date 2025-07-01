@@ -1,9 +1,8 @@
 ```json
 "name": "Patrick Bomm dos Santos",
-"age": "20",
+"age": "23",
 "living in": "Porto Alegre, Brazil",
-"studying": "Software Engineering at pucrs",
-"interests": "backend, music, soccer and gym"
+"studying": "Software Engineering"
 ```
 <div>
 <a href="https://github.com/PatrickBomm">
