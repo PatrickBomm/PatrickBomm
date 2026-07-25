@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Patrick%20Bomm&fontSize=62&fontColor=00FFCC&fontAlignY=34&animation=fadeIn&desc=Software%20Engineering%20%E2%80%A2%20Full%20Stack%20Developer&descSize=18&descAlignY=54" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FFCC&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software;Java+%7C+Python+%7C+TypeScript+%7C+JavaScript;Back-end%2C+Front-end+e+tudo+no+meio+do+caminho;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FFCC&center=true&vCenter=true&width=700&lines=Engenheiro+de+Software;Java+%7C+Python+%7C+TypeScript+%7C+JavaScript;Back-end%2C+Front-end+e+tudo+no+meio+do+caminho;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -69,13 +69,13 @@
 
 <div align="center">
 
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PatrickBomm&theme=github_dark" alt="GitHub Stats" />
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PatrickBomm&theme=github_dark" alt="Linguagens mais usadas por repositório" />
+<img height="200em" src="https://raw.githubusercontent.com/PatrickBomm/PatrickBomm/output/stats.svg" alt="GitHub Stats" />
+<img height="200em" src="https://raw.githubusercontent.com/PatrickBomm/PatrickBomm/output/repos-per-language.svg" alt="Linguagens mais usadas por repositório" />
 
 <br/>
 
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PatrickBomm&theme=github_dark" alt="Linguagens mais usadas por commit" />
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PatrickBomm&theme=github_dark&utcOffset=-3" alt="Horários mais produtivos" />
+<img height="200em" src="https://raw.githubusercontent.com/PatrickBomm/PatrickBomm/output/most-commit-language.svg" alt="Linguagens mais usadas por commit" />
+<img height="200em" src="https://raw.githubusercontent.com/PatrickBomm/PatrickBomm/output/productive-time.svg" alt="Horários mais produtivos" />
 
 <br/><br/>
 
@@ -89,7 +89,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PatrickBomm&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+<img src="https://raw.githubusercontent.com/PatrickBomm/PatrickBomm/output/profile-details.svg" alt="Contribution graph" width="100%" />
 
 </div>
 
