@@ -40,10 +40,14 @@ jobs:
           UTC_OFFSET: -3
           AUTO_PUSH: false
 
+      # snk runs in a Docker container as root, so dist/ ends up root-owned
+      # and the following steps (running as `runner`) cannot write into it.
       - name: Collect generated assets
         run: |
           mkdir -p dist
+          sudo chown -R "$(id -u):$(id -g)" dist
           cp profile-summary-card-output/github_dark/*.svg dist/
+          ls -la dist
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4

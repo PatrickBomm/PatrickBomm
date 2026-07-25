@@ -69,13 +69,13 @@
 
 <div align="center">
 
-<img height="200em" src="https://raw.githubusercontent.com/PatrickBomm/PatrickBomm/output/stats.svg" alt="GitHub Stats" />
-<img height="200em" src="https://raw.githubusercontent.com/PatrickBomm/PatrickBomm/output/repos-per-language.svg" alt="Linguagens mais usadas por repositório" />
+<img height="200em" src="https://raw.githubusercontent.com/PatrickBomm/PatrickBomm/output/3-stats.svg" alt="GitHub Stats" />
+<img height="200em" src="https://raw.githubusercontent.com/PatrickBomm/PatrickBomm/output/1-repos-per-language.svg" alt="Linguagens mais usadas por repositório" />
 
 <br/>
 
-<img height="200em" src="https://raw.githubusercontent.com/PatrickBomm/PatrickBomm/output/most-commit-language.svg" alt="Linguagens mais usadas por commit" />
-<img height="200em" src="https://raw.githubusercontent.com/PatrickBomm/PatrickBomm/output/productive-time.svg" alt="Horários mais produtivos" />
+<img height="200em" src="https://raw.githubusercontent.com/PatrickBomm/PatrickBomm/output/2-most-commit-language.svg" alt="Linguagens mais usadas por commit" />
+<img height="200em" src="https://raw.githubusercontent.com/PatrickBomm/PatrickBomm/output/4-productive-time.svg" alt="Horários mais produtivos" />
 
 <br/><br/>
 
@@ -89,7 +89,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PatrickBomm/PatrickBomm/output/profile-details.svg" alt="Contribution graph" width="100%" />
+<img src="https://raw.githubusercontent.com/PatrickBomm/PatrickBomm/output/0-profile-details.svg" alt="Contribution graph" width="100%" />
 
 </div>
 
